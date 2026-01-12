@@ -27,7 +27,7 @@ cypress/
 ## 📂 Requeriments
 
 * Node.js v16+ 
-* npm v9+ o superior
+* npm v9+
 * Git
 
 ---
