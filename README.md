@@ -24,7 +24,7 @@ cypress/
 
 ---
 
-## 📂 Requeriments
+## 📂 Requirements
 
 * Node.js v16+ 
 * npm v9+
@@ -45,6 +45,14 @@ cd <main-folder>
 
 ```bash
 npm install
+```
+
+---
+
+### 3. Execution
+
+```bash
+npm run cypress:open
 ```
 
 ---
