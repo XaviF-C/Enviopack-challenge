@@ -1,0 +1,23 @@
+# Node modules
+node_modules/
+
+# Cypress videos & screenshots
+cypress/videos/
+cypress/screenshots/
+
+# Cypress downloads
+cypress/downloads/
+
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
