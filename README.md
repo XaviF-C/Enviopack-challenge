@@ -3,6 +3,8 @@
 ---
 
 ## 📂 Project Structure
+
+```
 cypress/
  ├── e2e/
  │    └── login.cy.js
@@ -17,6 +19,8 @@ cypress/
       └── selectors/
            ├── loginPageSelectors.js
            └── homePageSelectors.js
+```
+
 
 ---
 
